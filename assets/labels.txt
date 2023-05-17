@@ -1,0 +1,4 @@
+0 gatos
+1 perros
+2 poios
+3 caballos
